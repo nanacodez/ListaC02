@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int escolha;
     float num1, num2, resultado; 
